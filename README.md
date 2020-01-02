@@ -12,3 +12,6 @@ npm run compile:sass
 2. Run the  live server
 
 live-server
+
+
+Hector Alcazar on the first chapter CSS udemy course
